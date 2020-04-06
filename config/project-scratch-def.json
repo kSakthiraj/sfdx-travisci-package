@@ -1,5 +1,5 @@
 {
-    "orgName": "CI Example",
+    "orgName": "ciorg",
     "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
